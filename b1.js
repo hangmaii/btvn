@@ -26,13 +26,3 @@ function check(arr) {
 check(nums);
 check(nums1);
 check(nums2);
-
-// //Case 1
-
-// check(nums);
-// //Case 2
-// 
-// check(nums1);
-// //Case 3
-
-// check(nums2);
